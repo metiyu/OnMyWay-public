@@ -1,0 +1,126 @@
+{
+  "objects": [
+    {
+      "id": "b2c3",
+      "categoryId": "e928",
+      "name": "Lift",
+      "desc": "The device that carries people and goods to different building levels"
+    },
+    {
+      "id": "d4e5",
+      "categoryId": "d21e",
+      "name": "A&W",
+      "desc": "Swiss luxury watches for discerning customers"
+    },
+    {
+      "id": "e5f6",
+      "categoryId": "d21e",
+      "name": "Lab Restaurant Hotel",
+      "desc": "High-end bags, luggage, and accessories"
+    },
+    {
+      "id": "f6g7",
+      "categoryId": "d21e",
+      "name": "West ATM BCA",
+      "desc": " Italian luxury fashion for trendsetters"
+    },
+    {
+      "id": "g7h8",
+      "categoryId": "d21e",
+      "name": "Harvest",
+      "desc": "Iconic fashion, fragrance, and accessory collections"
+    },
+    {
+      "id": "h8i9",
+      "categoryId": "87b0",
+      "name": "Hokben",
+      "desc": "he classic American denim and casual wear"
+    },
+    {
+      "id": "i9j0",
+      "categoryId": "58a9",
+      "name": "On My Way",
+      "desc": "For all your mall inquiries and services"
+    },
+    {
+      "id": "p6q7",
+      "categoryId": "87b0",
+      "name": "BCA",
+      "desc": "Fashion and quality at the best price"
+    },
+    {
+      "id": "s9t0",
+      "categoryId": "52f1",
+      "name": "UKS",
+      "desc": "Convenience store for your needs"
+    },
+    {
+      "id": "z6a7",
+      "categoryId": "52f1",
+      "name": "Binus Support",
+      "desc": "Tobacco products and smoking accessories"
+    },
+    {
+      "id": "a7b8",
+      "categoryId": "52f1",
+      "name": "Library & Knowledge Center",
+      "desc": "Skincare, cosmetics, and fragrances"
+    },
+    {
+      "id": "b8c9",
+      "categoryId": "52f1",
+      "name": "East ATM BCA",
+      "desc": "Everything for your pet's needs, from food to grooming"
+    },
+    {
+      "id": "d9d0",
+      "categoryId": "d21e",
+      "name": "Binus Megastore",
+      "desc": "Fine crystal jewelry and accessories"
+    },
+    {
+      "id": "ac12",
+      "categoryId": "17b0",
+      "name": "Toilet",
+      "desc": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": "52f1",
+      "name": "Retail"
+    },
+    {
+      "id": "e928",
+      "name": "Food"
+    },
+    {
+      "id": "58a9",
+      "name": "Services"
+    },
+    {
+      "id": "16be",
+      "name": "Health & Beauty"
+    },
+    {
+      "id": "d21e",
+      "name": "Luxury Goods"
+    },
+    {
+      "id": "a191",
+      "name": "Electronics"
+    },
+    {
+      "id": "87b0",
+      "name": "Fashion"
+    },
+    {
+      "id": "17b0",
+      "name": "Sanitary"
+    },
+    {
+      "id": "e753",
+      "name": "Entrance"
+    }
+  ]
+}

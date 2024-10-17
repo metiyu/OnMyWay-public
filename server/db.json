@@ -1,0 +1,156 @@
+{
+  "objects": [
+    {
+      "id": "b2c3",
+      "categoryId": "58a9",
+      "name": "Lift",
+      "desc": "The device that carries people and goods to different building levels"
+    },
+    {
+      "id": "c3d4",
+      "categoryId": "16be",
+      "name": "On My Way",
+      "desc": "On My Way indoor navigation provides real-time guidance to users within buildings, utilizing crowd density information to optimize their route and enhance their navigation experience."
+    },
+    {
+      "id": "d4e5",
+      "categoryId": "52f1",
+      "name": "ATM BCA",
+      "desc": "Superior services that provide convenience for customers to transact cash and non-cash at ATM machines with an extensive network throughout Indonesia."
+    },
+    {
+      "id": "e5f6",
+      "categoryId": "d21e",
+      "name": "Lab. Restaurant Hotel Management",
+      "desc": "High-end bags, luggage, and accessories"
+    },
+    {
+      "id": "f6g7",
+      "categoryId": "e928",
+      "name": "A&W",
+      "desc": "A&W Restaurants is a fast-food chain known for its iconic root beer and classic American comfort food, including burgers, hot dogs, and chicken, all served in a family-friendly atmosphere that has been a part of American culture for over 100 years."
+    },
+    {
+      "id": "g7h8",
+      "categoryId": "e928",
+      "name": "Harvest",
+      "desc": "Harvest Bakery is dedicated to crafting high-quality, home-style bakery products for the wholesale market, ensuring each item is made with premium ingredients for a fresh, delicious taste."
+    },
+    {
+      "id": "h8i9",
+      "categoryId": "a191",
+      "name": "Restroom",
+      "desc": "A restroom is a facility designed for personal hygiene, typically equipped with toilets, sinks, and sometimes additional amenities, ensuring privacy and cleanliness for users."
+    },
+    {
+      "id": "i9j0",
+      "categoryId": "87b0",
+      "name": "UKS",
+      "desc": "The Unit Kesehatan Sekolah (UKS) is a health service aimed at providing medical care, and facilitating health education to create a safe and supportive learning environment."
+    },
+    {
+      "id": "j0k1",
+      "categoryId": "17b0",
+      "name": "BINUS Support",
+      "desc": "BINUS Support serves as a comprehensive service center designed to assist all stakeholders of BINUS University, including students, lecturers, alumni, and parents, by providing information and solutions related to admissions, academic programs, and more, all within a single platform."
+    },
+    {
+      "id": "k1l2",
+      "categoryId": "58a9",
+      "name": "Ascending Escalator",
+      "desc": "Escalator to 2nd floor."
+    },
+    {
+      "id": "l2m3",
+      "categoryId": "17b0",
+      "name": "Library and Knowledge Center",
+      "desc": "The BINUS Library and Knowledge Center serves as a comprehensive resource hub for students and faculty, offering a vast collection of books, journals, and digital resources to support learning and research. It aims to facilitate access to information through innovative services, modern facilities, and a conducive environment for academic collaboration and study."
+    },
+    {
+      "id": "m3n4",
+      "categoryId": "58a9",
+      "name": "Descending Escalator",
+      "desc": "Escalator from 2nd floor."
+    },
+    {
+      "id": "n4o5",
+      "categoryId": "52f1",
+      "name": "ATM BCA",
+      "desc": "Superior services that provide convenience for customers to transact cash and non-cash at ATM machines with an extensive network throughout Indonesia."
+    },
+    {
+      "id": "o5p6",
+      "categoryId": "52f1",
+      "name": "BCA",
+      "desc": "Bank Central Asia (BCA) is the largest private bank in Indonesia, established in 1955, offering a comprehensive range of financial services including loans, deposits, electronic banking, and investment products, while also emphasizing innovation, customer service, and community support."
+    },
+    {
+      "id": "p6q7",
+      "categoryId": "17b0",
+      "name": "BINUS Megastore",
+      "desc": "BINUS Megastore is a retail space located on the Anggrek Campus, providing students and faculty with a variety of essential items including stationery, textbooks, and fashion products, designed to cater to the needs of the university community and enhance their academic experience."
+    },
+    {
+      "id": "q7r8",
+      "categoryId": "e928",
+      "name": "HokBen",
+      "desc": "HokBen is the first and largest Japanese-style fast food restaurant in Indonesia, offering a diverse menu that includes dishes like bento boxes and sushi, while providing services such as dine-in, takeout, home delivery, and drive-through options."
+    },
+    {
+      "id": "r8s9",
+      "categoryId": "58a9",
+      "name": "Stairs",
+      "desc": ""
+    },
+    {
+      "id": "s9t0",
+      "categoryId": "58a9",
+      "name": "Entrance",
+      "desc": ""
+    },
+    {
+      "id": "t0u1",
+      "categoryId": "87b0",
+      "name": "Adidas",
+      "desc": "Athletic wear and performance gear"
+    }
+ ],
+ "categories": [
+    {
+      "id": "52f1",
+      "name": "Finance"
+    },
+    {
+      "id": "e928",
+      "name": "Food"
+    },
+    {
+      "id": "58a9",
+      "name": "Services"
+    },
+    {
+      "id": "16be",
+      "name": "Booth"
+    },
+    {
+      "id": "d21e",
+      "name": "Laboratory"
+    },
+    {
+      "id": "a191",
+      "name": "Sanitary"
+    },
+    {
+      "id": "87b0",
+      "name": "Health"
+    },
+    {
+      "id": "17b0",
+      "name": "Student Support"
+    },
+    {
+      "id": "e753",
+      "name": "Entrance"
+    }
+  ]
+}
