@@ -1,5 +1,6 @@
 # OnMyWay
-Based on PathPal by https://github.com/KnotzerIO/indoor-wayfinder/archive/refs/heads/main.zip.
+This assignment was created to fulfill the ENTR6511001 - Entrepreneurship: Market Validation. Where this task is the realization of a business idea that is still at the prototype stage.
+Inspired by PathPal by https://github.com/KnotzerIO/indoor-wayfinder/archive/refs/heads/main.zip.
 
 ## Setup
 
